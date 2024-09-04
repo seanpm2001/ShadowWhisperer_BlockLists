@@ -1,13 +1,11 @@
 #
 #    File: Free
 #    Info: Free/Cheap Hosting & Blogs
-# Domains: 1,779
-# Updated: 1/24/2024  11:36 (11:36 AM CST)
-# Creator: ShadowWhisperer (Sean H.)
+# Domains: 1,780
+# Updated: 9/3/2024  22:52 (10:52 PM CST)
 #
-#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free
-#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
 000a.de
@@ -1373,6 +1371,7 @@ seite.com
 seite.info
 seite.ru
 sendspace.com
+serv00.net
 server2.eu
 server3.eu
 server4free.de
