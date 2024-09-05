@@ -2,7 +2,7 @@
 #    File: Fonts
 #    Info: Fonts
 # Domains: 151
-# Updated: 9/5/2024  15:19 (3:19 PM CST)
+# Updated: 9/5/2024  15:42 (3:42 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Fonts
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -83,6 +83,7 @@ fonts.qmusic.be
 fonts.qualifio.com
 fonts.r7.com
 fonts.ralphlauren.com
+fonts.rogersdigitalmedia.com
 fonts_rysvarm.storage.googleapis.com
 fonts.sage.com
 fonts.sandbox.google.com
@@ -131,7 +132,6 @@ media.tdameritrade.com
 minted-fonts.mintedcdn.net
 mojidepa.com
 myfontastic.com
-myfonts.net
 nimblefonts.nimbledeals.com
 onlinewebfonts.com
 pls.webtype.com
