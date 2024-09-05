@@ -1,11 +1,12 @@
     Ads              Advertisements, Banners, Widgets & Push Notifications  
     Adult            Porn / 18+ Content  
     Apple            Bloat  
-    Bloat            Fonts, Surveys, Domains not required for software to function  
+    Bloat            Domains not required for software to function  
     Chat             Chat Dialog Popups  
     Cryptocurrency   Bitcoin, Ethereum, Mining, etc. (Not Malware)  
     Dating           Dating Sites  
     Dynamic          Dynamic DNS:  DNS --> IP  
+    Fonts            Fonts  
     Free             Free/Cheap Hosting, Free Blogs  
     Gambling         Casino, Gambling, Poker sites  
     Junk             Personally untrusted software, browser extensions, search engines, etc  
