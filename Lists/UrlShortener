@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,063
-# Updated: 9/3/2024  00:46 (12:46 AM CST)
+# Domains: 3,065
+# Updated: 9/6/2024  18:23 (6:23 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1874,6 +1874,7 @@ pb6.ir
 pbplx.in
 pcr.bhscovid.org
 pdp.life
+peak-prosperity.com
 pecurgoa.com
 peen.ca
 peercertification.wildalwhite.com
@@ -2260,6 +2261,7 @@ shortlink.com.au
 shortlink.co.za
 shortlinkid.live
 shortlink.net
+shortlinksakti.xyz
 shortlk.com
 shortll.com
 shortly.cc
