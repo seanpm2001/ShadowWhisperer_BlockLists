@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,065
-# Updated: 9/6/2024  18:23 (6:23 PM CST)
+# Domains: 3,084
+# Updated: 9/9/2024  12:22 (12:22 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -22,6 +22,7 @@
 0x.re
 0xy.me
 101101.xyz
+110.vg
 123.ge
 123link.co
 123lnk.xyz
@@ -911,6 +912,7 @@ flyurl.net
 fly.yt
 fna.ir
 fnote.it
+fortunium.xyz
 freefc24code.life
 freshflowangling.store
 fri-masms7.info
@@ -1094,6 +1096,7 @@ hmf.li
 hmp.me
 hobbyajans.live
 hocmai.link
+hodroffs.com
 hoeg.it
 hoholah.xyz
 ho.io
@@ -1180,6 +1183,7 @@ ioui.ru
 ipkill.org
 ipm.mo
 iql.ink
+ir.cx
 iriacassu.life
 is.am
 isc-vn.com
@@ -1321,6 +1325,7 @@ kuty.me
 kuykendall-lauren.life
 kv.ci
 kve.so
+kwx.fyi
 kyaa.info
 l00p.eu
 l24.im
@@ -1498,6 +1503,7 @@ lowrihouston.pro
 lowx.de
 lph.la
 lr53r.com
+lrrahad200346.info
 lsn.to
 ls.st
 lt27.de
@@ -1626,6 +1632,7 @@ min.lc
 minu.be
 mis4.me
 miss-m-216.info
+mixing.guru
 mix.olix.ro
 mki.my
 mkish1950.life
@@ -1639,6 +1646,7 @@ mmor.ir
 mmould44.life
 mm.vg
 mnetarsiwoe.com
+mntrmeme.com
 mobilelife.me
 mobiusracing.us
 modash.link
@@ -1690,8 +1698,11 @@ my-ab.co
 myanlink.com
 myautotrading.live
 myaz.tech
+mybranded.link
 mycecianajada271928.life
 my-club.live
+mycts.app
+mycts.info
 mydemetrius.life
 myduke.life
 my-elizabeth.life
@@ -1946,6 +1957,7 @@ prephe.ro
 prime-link.net
 prince-0210th-akur.info
 princessbabybratx.live
+printplase.life
 p-r.io
 privad0.com
 prodd.co
@@ -2337,6 +2349,7 @@ shrtme.link
 shrturll.com
 shrturl.site
 sh.sg
+shss-ares.live
 sh.st
 shtlink.eu
 sht.moe
@@ -2475,6 +2488,7 @@ swiftation.com
 swifttopia.com
 swi.nu
 swr1.cc
+swsupt.com
 syl83otk.live
 syr.us
 szag.link
@@ -2589,6 +2603,7 @@ tinyreview20.life
 tinyreview9.life
 tinyshorturl.com
 tiny.sm
+tinyst.com
 tiny.tw
 tinyurl.dev
 tinyurl.mobi
@@ -2753,6 +2768,7 @@ url99wow.com
 urlah.com
 urlaze.com
 urlbit.co
+urlbox.cc
 urlchecker.info
 url.coronassh.com
 urlday.cc
@@ -2764,6 +2780,7 @@ urlex.org
 urlexpander.org
 urlflea.com
 url.fti.or.th
+urlgit.com
 urlhum.com
 url.ie
 ur.link
@@ -2788,6 +2805,7 @@ urlplus.link
 urlpoints.com
 url.prepo.io
 url-qr.tk
+urlra.com
 urlro.com
 url.rw
 urls.by
@@ -2958,6 +2976,7 @@ wru.kr
 wts2.smhi.se
 wts3.smhi.se
 wurlie.net
+wurlz.com
 wu.vc
 wwdurl.com
 wwtt.to
