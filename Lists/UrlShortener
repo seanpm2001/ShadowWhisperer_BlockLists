@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,089
-# Updated: 9/10/2024  01:05 (1:05 AM CST)
+# Domains: 3,091
+# Updated: 9/10/2024  12:49 (12:49 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1373,6 +1373,7 @@ lillink.xyz
 lilllil.ru
 lil.so
 lincat.co
+linck.ir
 linc.li
 lincyt.com
 lingkod.to
@@ -3044,6 +3045,7 @@ y.stadtfabrikanten.org
 yts.nu
 ytube.io
 ytxt.mobi
+yu60y8d.com
 yxe3d.paulchavady.com
 yx.si
 z1.tl
