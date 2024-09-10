@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,087
-# Updated: 9/9/2024  18:42 (6:42 PM CST)
+# Domains: 3,089
+# Updated: 9/10/2024  01:05 (1:05 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2884,6 +2884,7 @@ v.gd
 vgnx.co
 viahold.com
 vibebycalifornia.life
+videopro.live
 videos.pbi.tools
 vid.lu
 view.helpline-app.com
@@ -2975,6 +2976,7 @@ wozencraft.boats
 wp1.co
 wptrckr.com
 wq.lt
+wrdsdaily.com
 wru.kr
 wts2.smhi.se
 wts3.smhi.se

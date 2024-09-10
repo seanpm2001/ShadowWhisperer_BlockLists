@@ -984,12 +984,7 @@ zxcs.nl                                   #Generic
 #   Other
 ##############################################
 adsnameserver.com                         #Poss-Dead1
-emailverification.info                    #Poss-Dead2
 namedynamics.net                          #Poss-Dead3
-eftydns.com                               #Poss-Dead4
-verification1.plaindns.net                #Poss-Dead5
-verification2.plaindns.net                #Poss-Dead5
-domainactive.org                          #Poss-Dead6
 google.com                                #Google
 l.google.com                              #Google
 sedo.com                                  #Sedo
@@ -1417,6 +1412,11 @@ expired1.namebrightdns.com                    #Parked
 expired2.namebrightdns.com                    #Parked
 expire1.gname-dns.com                         #Parked
 expire2.gname-dns.com                         #Parked
+emailverification.info                        #Parked
+eftydns.com                                   #Parked
+verification1.plaindns.net                    #Parked
+verification2.plaindns.net                    #Parked
+domainactive.org                              #Parked
 
 
 ##############################################
