@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 733
-# Updated: 9/5/2024  15:07 (3:07 PM CST)
+# Domains: 732
+# Updated: 9/11/2024  12:42 (12:42 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -303,7 +303,6 @@ firefox.settings.services.mozilla.com                   #Software   FireFox
 snippets.cdn.mozilla.net                                #Software   FireFox
 snippets.mozilla.com                                    #Software   FireFox
 mymotocast.com                                          #Software      Motorola  - MotoCast (Defunct)
-gfwsl.geforce.com                                       #Software      Nvidia - GeForce Experience (Updates)
 services.gfe.nvidia.com                                 #Software      Nvidia - GeForce Experience (Updates)
 af.opera.com                                            #Software    Opera - Autofill
 desktop-assistant-sub.osp.opera.software                #Software    Opera - Desktop Assistant

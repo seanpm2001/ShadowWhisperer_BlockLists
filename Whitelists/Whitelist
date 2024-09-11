@@ -287,6 +287,7 @@ wscont.apps.microsoft.com                           #Microsoft   Windows 10 (Upd
 sdx.microsoft.com                                   #Microsoft   Windows 10 (Initial setup) *Check for internet
 userpresence.xboxlive.com                           #Microsoft   Xbox / Windows Games   (Friends List)
 emerald.xboxservices.com                            #Microsoft   Xbox Website (Buy Options)
+gfwsl.geforce.com                                   #Nvidia      Breaks driver search, on site / GeForce Experience (Updates)
 
 
 #####################################################
@@ -415,6 +416,8 @@ s1.yimg.com                                          #Images - Yahoo
 s.yimg.com                                           #Images - Yahoo
 codex.nflxext.com                                    #Netflix - Website - Main Page
 c.paypal.com                                         #PayPal - Required for Sign In
+glance.cdn.net                                       #QuickBooks  Breaks Remote Support (Does not resolv)
+glance.intuit.com                                    #QuickBooks  Breaks Remote Support
 ota.baidu.com                                        #Retroid - Firmware Updates
 otacdn.baidu.com                                     #Retroid - Firmware Updates
 cdn.awsusor0.fds.api.mi-img.com                      #Roborock  [App]  Download Firmware Updates

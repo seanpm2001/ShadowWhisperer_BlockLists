@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,093
-# Updated: 9/10/2024  21:38 (9:38 PM CST)
+# Domains: 3,095
+# Updated: 9/11/2024  12:42 (12:42 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -887,6 +887,7 @@ fbook.cc
 fbx.nz
 fee.vn
 female-and-male-in-tech.com
+fenomen.live
 fffutu.re
 fflowerys.com
 fgurl.net
@@ -1388,6 +1389,7 @@ linka.li
 linkapp.click
 linkasli.pro
 linkbear.me
+linkb.ee
 linkbirdy.com
 linkbitty.com
 link.bootocorona.com
