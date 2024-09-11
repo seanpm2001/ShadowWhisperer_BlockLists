@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,092
-# Updated: 9/10/2024  18:12 (6:12 PM CST)
+# Domains: 3,093
+# Updated: 9/10/2024  21:38 (9:38 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1385,6 +1385,7 @@ linkaff.com
 linkai.in
 linkaku.pro
 linka.li
+linkapp.click
 linkasli.pro
 linkbear.me
 linkbirdy.com

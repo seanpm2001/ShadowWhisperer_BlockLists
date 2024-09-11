@@ -1,6 +1,23 @@
 ##############################################
 #    Generic / Web Host
 ##############################################
+sdsns.com                                 #Generic
+bilpark.com.tr                            #Generic
+renew.ru                                  #Generic
+ns1.sunucupark.com.tr                     #Generic
+ns2.sunucupark.com.tr                     #Generic
+dns1.netsons.net                          #Generic
+dns2.netsons.net                          #Generic
+dns3.netsons.net                          #Generic
+dns4.netsons.net                          #Generic
+netsons.net                               #Generic
+parspack.co                               #Generic
+gzo.com                                   #Generic
+dnslineagrafica.net                       #Generic
+aix-cloud.de                              #Generic
+dnssw.net                                 #Generic
+app.br                                    #Generic
+vhn.cl                                    #Generic
 ns1.webhostingindonesia.co.id             #Generic
 ns2.webhostingindonesia.co.id             #Generic
 ns3.webhostingindonesia.co.id             #Generic
@@ -1416,7 +1433,28 @@ emailverification.info                        #Parked
 eftydns.com                                   #Parked
 verification1.plaindns.net                    #Parked
 verification2.plaindns.net                    #Parked
+empty.as112.arpa                              #Parked
 domainactive.org                              #Parked
+park1.eureg.ro                                #Parked
+park2.eureg.ro                                #Parked
+parking1.neodigit.net                         #Parked
+parking2.neodigit.net                         #Parked
+mybestdomainparking.com                       #Parked
+dns1.spirit-parked-pages.net                  #Parked
+dns2.spirit-parked-pages.net                  #Parked
+ns1.park.ninzahost.in                         #Parked
+ns2.park.ninzahost.in                         #Parked
+park.ninzahost.in                             #Parked
+ns-expired.domain.go.id                       #Parked
+expire1.sdsns.com                             #Parked
+gn-delete.com                                 #Parked
+expired1.jagoanhosting.com                    #Parked
+expired1.runetproekt.ru                       #Parked
+expired2.jagoanhosting.com                    #Parked
+expired2.runetproekt.ru                       #Parked
+expired.rf.ru                                 #Parked
+ns1.expired.rf.ru                             #Parked
+ns2.expired.rf.ru                             #Parked
 
 
 ##############################################
