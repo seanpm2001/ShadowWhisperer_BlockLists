@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,095
-# Updated: 9/11/2024  12:42 (12:42 PM CST)
+# Domains: 3,101
+# Updated: 9/11/2024  21:01 (9:01 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1409,7 +1409,10 @@ linkfly.me
 linkfr.ee
 linkf.su
 linkgacor33.info
+linkgacortexas.org
 link.goglogo.com
+linkgol88.com
+linkgqq.org
 linkgrab.top
 link.gy
 linkia.co
@@ -1424,6 +1427,7 @@ linkiti.com
 linkit.net
 linkjago.me
 linkjitu.site
+linkjp.org
 linkjust.com
 linkkp.com
 l-i-nk.me
@@ -1745,6 +1749,7 @@ myup.work
 myurl.ly
 myvdcc.com
 myweber.life
+n7s.xyz
 nagaaslicc.life
 nah.uy
 nalo.life
@@ -3050,6 +3055,7 @@ yts.nu
 ytube.io
 ytxt.mobi
 yu60y8d.com
+yuxbb7g.com
 yxe3d.paulchavady.com
 yx.si
 z1.tl
