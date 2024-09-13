@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,106
-# Updated: 9/13/2024  01:39 (1:39 AM CST)
+# Domains: 3,107
+# Updated: 9/13/2024  15:51 (3:51 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2239,6 +2239,7 @@ shop-ify-store-km.life
 shopifystorekms.life
 shoplarryherndon115.life
 shopquoraurl.life
+shopstees.info
 shopvt.life
 shopwoolworths.live
 shorrty.com
