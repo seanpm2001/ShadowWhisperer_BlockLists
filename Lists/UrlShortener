@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,103
-# Updated: 9/12/2024  13:11 (1:11 PM CST)
+# Domains: 3,104
+# Updated: 9/12/2024  19:24 (7:24 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2200,6 +2200,7 @@ selink.top
 send-in-blue.live
 sendurl.me
 senin.lol
+sensasi777.love
 seo-expert.live
 seoexperts.life
 serveracts.net
