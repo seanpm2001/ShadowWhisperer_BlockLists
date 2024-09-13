@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,104
-# Updated: 9/12/2024  19:24 (7:24 PM CST)
+# Domains: 3,106
+# Updated: 9/13/2024  01:39 (1:39 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1070,6 +1070,7 @@ hblab.me
 hbs.me
 hbtl.co
 hdd6.com
+healthiermemphis.org
 heartofthenorthtours.link
 hedonpisansidiki.com
 hellosliponi.life
@@ -1991,6 +1992,7 @@ p.st
 psychic-shiva-ram.live
 psychology-today.life
 ptolreco.com
+ptr88.com
 ptr.tw
 ptxt.me
 ptzo.cc
