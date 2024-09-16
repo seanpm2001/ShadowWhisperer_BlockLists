@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,119
-# Updated: 9/16/2024  00:12 (12:12 AM CST)
+# Domains: 3,122
+# Updated: 9/16/2024  18:36 (6:36 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -558,6 +558,7 @@ chekc.life
 chem.sg
 chfm.ch
 chilp.it
+chimney-doctors.com
 chkurl.net
 chl.ink
 chl.li
@@ -1379,6 +1380,7 @@ lilliess.com
 lillink.xyz
 lilllil.ru
 lil.so
+limiteds.live
 lincat.co
 linck.ir
 linc.li
@@ -1623,6 +1625,7 @@ mgwp2024.info
 mhi5.us
 mhmt01777.life
 mhsta.life
+mi1.pw
 mi3s.one
 microlinks.io
 midiavip.com
