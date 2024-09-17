@@ -1,6 +1,7 @@
 ##############################################
 #    Generic / Web Host
 ##############################################
+telus corporation                         #Generic
 sdsns.com                                 #Generic
 bilpark.com.tr                            #Generic
 renew.ru                                  #Generic
@@ -1489,6 +1490,16 @@ athenahealth-dns.com                      #Company [Health] Advocate Health
 ns1.healthscope.com.au                    #Company [Health] HealthScope
 ns2.healthscope.com.au                    #Company [Health] HealthScope
 healthscope.com.au                        #Company [Health] HealthScope
+ep1ns01.mckesson.com                      #Company [Health] McKesson
+ep1ns02.mckesson.net                      #Company [Health] McKesson
+ep1ns03.mckesson.org                      #Company [Health] McKesson
+ep1ns04.mckesson.com                      #Company [Health] McKesson
+ep2ns01.mckesson.com                      #Company [Health] McKesson
+ep2ns02.mckesson.net                      #Company [Health] McKesson
+ep2ns03.mckesson.org                      #Company [Health] McKesson
+mckesson.com                              #Company [Health] McKesson
+mckesson.net                              #Company [Health] McKesson
+mckesson.org                              #Company [Health] McKesson
 pattersoncompanies.com                    #Company [Health] Patterson Companies
 shands.ufl.edu                            #Company [Health] Shands
 tenethealth.com                           #Company [Health] Tenet Healthcare Corporation
