@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,130
-# Updated: 9/17/2024  09:43 (9:43 AM CST)
+# Domains: 3,132
+# Updated: 9/18/2024  00:39 (12:39 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -190,6 +190,7 @@ adfoc.us
 adjh.pt
 adlinkcash.com
 adlinkfly.mightyscripts.xyz
+adlinkfly.space
 adlvy.com
 admediatex.click
 adoj36.life
@@ -308,6 +309,7 @@ arrington-j153.info
 arserike.com
 arsn.al
 artsoflifeo.info
+artzenartist.life
 arus.cc
 aryenmotors.com
 asharq.co
