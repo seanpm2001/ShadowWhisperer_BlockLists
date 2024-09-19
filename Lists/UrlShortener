@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,133
-# Updated: 9/18/2024  17:38 (5:38 PM CST)
+# Domains: 3,136
+# Updated: 9/18/2024  22:37 (10:37 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -236,6 +236,7 @@ ak.gd
 akivulhasan.live
 akoo.ir
 akslot.io
+akunwso.gratis
 alaa.tv
 alas.click
 albn.org
@@ -2563,8 +2564,10 @@ tdy.lol
 teamline.live
 teamrrqslot188.live
 tebar.in
+teehunter.info
 teenycheck9.life
 teeny.life
+teesprints.life
 teil.cc
 teknut.com
 teleko.me
