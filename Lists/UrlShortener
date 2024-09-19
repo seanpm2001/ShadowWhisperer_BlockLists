@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,136
-# Updated: 9/18/2024  22:37 (10:37 PM CST)
+# Domains: 3,139
+# Updated: 9/19/2024  09:20 (9:20 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -69,6 +69,7 @@
 2link.in
 2one.in
 2pu.sh
+2s.gg
 2tf.net
 2tiny.in
 2to.info
@@ -841,6 +842,7 @@ el.ly
 eloism.net
 eltiongjetaj91.live
 elx.site
+em.cm
 emojied.net
 encorelpmbqs.com
 ene-amari-us-43.life
@@ -1573,6 +1575,7 @@ mahse.life
 mahse.live
 maicowa.xyz
 mailisa.live
+mainaku.life
 makyo.io
 malachi-qain.life
 mamm.ie
