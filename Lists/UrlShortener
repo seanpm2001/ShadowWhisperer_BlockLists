@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,139
-# Updated: 9/19/2024  09:20 (9:20 AM CST)
+# Domains: 3,141
+# Updated: 9/19/2024  20:51 (8:51 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -294,6 +294,7 @@ apertibumn.org
 ap.lc
 apll.es
 aporasal.net
+appbitly.com
 app.helpline-app.com
 apply-here.live
 appna.me
@@ -3071,6 +3072,7 @@ yatradham.net
 yb.gd
 yc.ms
 ye.pe
+yepp.link
 yep.pt
 yewwss.com
 yiii.de
