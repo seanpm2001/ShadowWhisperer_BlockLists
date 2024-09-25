@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 289
-# Updated: 6/17/2024  14:23 (2:23 PM CST)
+# Domains: 290
+# Updated: 9/24/2024  23:15 (11:15 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -102,124 +102,125 @@ cdntip.com                                     #Company - Shenzhen Tencent Compu
 cdntips.net                                    #Company - Shenzhen Tencent Computer Systems
 tencent.com                                    #Company - Shenzhen Tencent Computer Systems
 
-account-tiktok.com                             #Company - TikTok
-amemv.com                                      #Company - TikTok
-artistxpress.org                               #Company - TikTok
-beyondthetrends-ca-tiktok.com                  #Company - TikTok
-brightbeat.net                                 #Company - TikTok
-bytecdn.cn                                     #Company - TikTok
-bytedanceapi.com                               #Company - TikTok
-bytedance.com                                  #Company - TikTok
-bytedance.net                                  #Company - TikTok
-bytedns.net                                    #Company - TikTok
-byted.org                                      #Company - TikTok
-byteeffecttos-g.com                            #Company - TikTok
-byteicdn.com                                   #Company - TikTok
-byteigtm.com                                   #Company - TikTok
-byteimg.com                                    #Company - TikTok
-byteoversea.com                                #Company - TikTok
-byteoversea.net                                #Company - TikTok
-bytetcdn.com                                   #Company - TikTok
-capcut.su                                      #Company - TikTok
-discover-tiktok.com                            #Company - TikTok
-douyin.com                                     #Company - TikTok
-download-tiktok-video.com                      #Company - TikTok
-dubaichambertiktokacademy.com                  #Company - TikTok
-effecthouse.com                                #Company - TikTok
-goofy-cdn.com                                  #Company - TikTok
-helo-app.com                                   #Company - TikTok
-helo.com                                       #Company - TikTok
-helo.in                                        #Company - TikTok
-hypstarcdn.com                                 #Company - TikTok
-i18n-pglstatp.com                              #Company - TikTok
-ibytedtos.com                                  #Company - TikTok
-ibyteimg.com                                   #Company - TikTok
-isnssdk.com                                    #Company - TikTok
-krtiktokacademy.com                            #Company - TikTok
-lemon8-app.com                                 #Company - TikTok
-lemon8cdn.com                                  #Company - TikTok
-letschat.com                                   #Company - TikTok
-muscdn.com                                     #Company - TikTok
-musical.ly                                     #Company - TikTok
-mzfvozqybf.com                                 #Company - TikTok
-p16-tiktokcdn-com.akamaized.net                #Company - TikTok
-pangle-b.io                                    #Company - TikTok
-pangleglobal.com                               #Company - TikTok
-pangle.io                                      #Company - TikTok
-pet8888.co.kr                                  #Company - TikTok
-pictiktok.com                                  #Company - TikTok
-piktiktok.com                                  #Company - TikTok
-pitaya-clientai.com                            #Company - TikTok
-projectevogame.com                             #Company - TikTok
-qfyf1toi.com                                   #Company - TikTok
-ressoforartist.com                             #Company - TikTok
-ressoforartist.net                             #Company - TikTok
-ressoforartists.com                            #Company - TikTok
-ressoforartists.net                            #Company - TikTok
-seasgames.com                                  #Company - TikTok
-sgpstatp.com                                   #Company - TikTok
-sgsnssdk.com                                   #Company - TikTok
-sharee.com                                     #Company - TikTok
-snk-allstarfight.com                           #Company - TikTok
-solera-kyoto.com                               #Company - TikTok
-sometiktok.com                                 #Company - TikTok
-songshot.net                                   #Company - TikTok
-tikitoks.com                                   #Company - TikTok
-tiknok.com                                     #Company - TikTok
-tikotok.com                                    #Company - TikTok
-tiktokacademy.ru                               #Company - TikTok
-tiktokadawardseurope.com                       #Company - TikTok
-tiktokadawardssea.com                          #Company - TikTok
-tik-tokapi.com                                 #Company - TikTok
-tiktok-apis.com                                #Company - TikTok
-tiktok-boe.com                                 #Company - TikTok
-tiktokbusiness.ru                              #Company - TikTok
-tiktokcdn.com                                  #Company - TikTok
-tiktokcdn-in.com                               #Company - TikTok
-tiktokcdn-us.com                               #Company - TikTok
-tiktok.com.c.footprint.net                     #Company - TikTok
-tiktok.com                                     #Company - TikTok
-tiktokcu.com                                   #Company - TikTok
-tiktokfeed.com                                 #Company - TikTok
-tiktokforartist.com                            #Company - TikTok
-tiktokforartist.net                            #Company - TikTok
-tiktokforartists.net                           #Company - TikTok
-tiktokforbusinessoutbound.com                  #Company - TikTok
-tiktokglobalshop-governance.com                #Company - TikTok
-tiktokgram.com                                 #Company - TikTok
-tiktokgym.com                                  #Company - TikTok
-tiktokhi.com                                   #Company - TikTok
-tiktokin.com                                   #Company - TikTok
-tiktok.in                                      #Company - TikTok
-tiktokinfo.in                                  #Company - TikTok
-tiktokpartnersprogram.com                      #Company - TikTok
-tiktokplay.com                                 #Company - TikTok
-tiktokseaimpactforum.com                       #Company - TikTok
-tiktok-smallbizblockparty.com                  #Company - TikTok
-tiktoksmbacademy.com                           #Company - TikTok
-tiktoksummit.ru                                #Company - TikTok
-tiktoktag.com                                  #Company - TikTok
-tiktoktik.com                                  #Company - TikTok
-tiktokus.info                                  #Company - TikTok
-tiktokv.com                                    #Company - TikTok
-tiktokvid.com                                  #Company - TikTok
-tik-tok-videos.com                             #Company - TikTok
-tiktokview.com                                 #Company - TikTok
-tiktokv.us                                     #Company - TikTok
-tiktokw.us                                     #Company - TikTok
-tikvid.com                                     #Company - TikTok
-tikvok.com                                     #Company - TikTok
-tivtok.com                                     #Company - TikTok
-topbuzz.com                                    #Company - TikTok
-ttbuzz.com                                     #Company - TikTok
-ttlivecdn.com                                  #Company - TikTok
-ttwstatic.com                                  #Company - TikTok
-v16-tiktokcdn-com.akamaized.net                #Company - TikTok
-visactor.io                                    #Company - TikTok
-vocata.net                                     #Company - TikTok
-xtopbuzz.com                                   #Company - TikTok
-xzcs3zlph.com                                  #Company - TikTok
-yourbytematch.com                              #Company - TikTok
+account-tiktok.com                             #TikTok
+amemv.com                                      #TikTok
+artistxpress.org                               #TikTok
+beyondthetrends-ca-tiktok.com                  #TikTok
+brightbeat.net                                 #TikTok
+bytecdn.cn                                     #TikTok
+bytedanceapi.com                               #TikTok
+bytedance.com                                  #TikTok
+bytedance.net                                  #TikTok
+bytedns.net                                    #TikTok
+byted.org                                      #TikTok
+byte-edge.org                                  #TikTok
+byteeffecttos-g.com                            #TikTok
+byteicdn.com                                   #TikTok
+byteigtm.com                                   #TikTok
+byteimg.com                                    #TikTok
+byteoversea.com                                #TikTok
+byteoversea.net                                #TikTok
+bytetcdn.com                                   #TikTok
+capcut.su                                      #TikTok
+discover-tiktok.com                            #TikTok
+douyin.com                                     #TikTok
+download-tiktok-video.com                      #TikTok
+dubaichambertiktokacademy.com                  #TikTok
+effecthouse.com                                #TikTok
+goofy-cdn.com                                  #TikTok
+helo-app.com                                   #TikTok
+helo.com                                       #TikTok
+helo.in                                        #TikTok
+hypstarcdn.com                                 #TikTok
+i18n-pglstatp.com                              #TikTok
+ibytedtos.com                                  #TikTok
+ibyteimg.com                                   #TikTok
+isnssdk.com                                    #TikTok
+krtiktokacademy.com                            #TikTok
+lemon8-app.com                                 #TikTok
+lemon8cdn.com                                  #TikTok
+letschat.com                                   #TikTok
+muscdn.com                                     #TikTok
+musical.ly                                     #TikTok
+mzfvozqybf.com                                 #TikTok
+p16-tiktokcdn-com.akamaized.net                #TikTok
+pangle-b.io                                    #TikTok
+pangleglobal.com                               #TikTok
+pangle.io                                      #TikTok
+pet8888.co.kr                                  #TikTok
+pictiktok.com                                  #TikTok
+piktiktok.com                                  #TikTok
+pitaya-clientai.com                            #TikTok
+projectevogame.com                             #TikTok
+qfyf1toi.com                                   #TikTok
+ressoforartist.com                             #TikTok
+ressoforartist.net                             #TikTok
+ressoforartists.com                            #TikTok
+ressoforartists.net                            #TikTok
+seasgames.com                                  #TikTok
+sgpstatp.com                                   #TikTok
+sgsnssdk.com                                   #TikTok
+sharee.com                                     #TikTok
+snk-allstarfight.com                           #TikTok
+solera-kyoto.com                               #TikTok
+sometiktok.com                                 #TikTok
+songshot.net                                   #TikTok
+tikitoks.com                                   #TikTok
+tiknok.com                                     #TikTok
+tikotok.com                                    #TikTok
+tiktokacademy.ru                               #TikTok
+tiktokadawardseurope.com                       #TikTok
+tiktokadawardssea.com                          #TikTok
+tik-tokapi.com                                 #TikTok
+tiktok-apis.com                                #TikTok
+tiktok-boe.com                                 #TikTok
+tiktokbusiness.ru                              #TikTok
+tiktokcdn.com                                  #TikTok
+tiktokcdn-in.com                               #TikTok
+tiktokcdn-us.com                               #TikTok
+tiktok.com.c.footprint.net                     #TikTok
+tiktok.com                                     #TikTok
+tiktokcu.com                                   #TikTok
+tiktokfeed.com                                 #TikTok
+tiktokforartist.com                            #TikTok
+tiktokforartist.net                            #TikTok
+tiktokforartists.net                           #TikTok
+tiktokforbusinessoutbound.com                  #TikTok
+tiktokglobalshop-governance.com                #TikTok
+tiktokgram.com                                 #TikTok
+tiktokgym.com                                  #TikTok
+tiktokhi.com                                   #TikTok
+tiktokin.com                                   #TikTok
+tiktok.in                                      #TikTok
+tiktokinfo.in                                  #TikTok
+tiktokpartnersprogram.com                      #TikTok
+tiktokplay.com                                 #TikTok
+tiktokseaimpactforum.com                       #TikTok
+tiktok-smallbizblockparty.com                  #TikTok
+tiktoksmbacademy.com                           #TikTok
+tiktoksummit.ru                                #TikTok
+tiktoktag.com                                  #TikTok
+tiktoktik.com                                  #TikTok
+tiktokus.info                                  #TikTok
+tiktokv.com                                    #TikTok
+tiktokvid.com                                  #TikTok
+tik-tok-videos.com                             #TikTok
+tiktokview.com                                 #TikTok
+tiktokv.us                                     #TikTok
+tiktokw.us                                     #TikTok
+tikvid.com                                     #TikTok
+tikvok.com                                     #TikTok
+tivtok.com                                     #TikTok
+topbuzz.com                                    #TikTok
+ttbuzz.com                                     #TikTok
+ttlivecdn.com                                  #TikTok
+ttwstatic.com                                  #TikTok
+v16-tiktokcdn-com.akamaized.net                #TikTok
+visactor.io                                    #TikTok
+vocata.net                                     #TikTok
+xtopbuzz.com                                   #TikTok
+xzcs3zlph.com                                  #TikTok
+yourbytematch.com                              #TikTok
 
 admuncher.com                                  #Software - AdMuncher
 appsgeyser.com                                 #Software - AppsGeyser  (App Creator)
