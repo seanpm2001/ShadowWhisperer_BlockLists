@@ -5,6 +5,7 @@
 my-win.avast.com                                    #AVG         Activate Free Version
 ping.avast.com                                      #AVG         Install Freezes
 s-nuistatic.avcdn.net                               #AVG         Website Login
+honzik.avcdn.net                                    #AVG         Breaks install/updates
 ff.kis.scr.kaspersky-labs.com                       #Kaspersky   Scans Webpages (FireFox)
 gc.kis.scr.kaspersky-labs.com                       #Kaspersky   Scans Webpages (Google Chrome)
 ie.kis.scr.kaspersky-labs.com                       #Kaspersky   Scans Webpages (Internet Explorer)
