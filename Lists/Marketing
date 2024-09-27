@@ -1,8 +1,8 @@
 #
 #    File: Marketing
 #    Info: Web Marketing / Ebay Listing Tools
-# Domains: 321
-# Updated: 9/5/2024  10:34 (10:34 AM CST)
+# Domains: 322
+# Updated: 9/27/2024  11:18 (11:18 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Marketing
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -155,6 +155,7 @@ ti2.auctiva.com                    #Auctiva
 bridgewell.com                     #BridgeWell
 candid.io                          #Candid.io
 candid.media                       #Candid.io
+centra.com                         #Centra
 digitalriver.com                   #Digital Driver
 digitalrivercontent.net            #Digital Driver
 onenetworkdirect.com               #Digital Driver
