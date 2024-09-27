@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 79,048
-# Updated: 9/27/2024  11:18 (11:18 AM CST)
+# Domains: 79,073
+# Updated: 9/27/2024  15:47 (3:47 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -31781,6 +31781,7 @@ matomo.bkk-bayern.de
 matomo.bklitomysl.cz
 matomo.blatters-appartements.ch
 matomo.bl.ch
+matomo.bld.de
 matomo.blendbyte.com
 matomo.blkknt.dev
 matomo.blnq.de
@@ -32166,6 +32167,7 @@ matomo.dti.ufv.br
 matomo.dt.renault.com
 matomo.dtvmurit.myhostpoint.ch
 matomo.dublincity.ie
+matomo.dubtempo.com
 matomo.dudley.co.kr
 matomo.duidelijk.dev
 matomo.dungl.eu
@@ -32986,8 +32988,10 @@ matomo.matthewtift.com
 matomo.mauta.org
 matomo.maxfath.de
 matomo.max.nl
+matomo.mayfeld.de
 matomo.mayrhofen.at
 matomo.mbdigitalinnovation.ch
+matomo.mci.de
 matomo.mdw.ovh
 matomo.mecodia.cloud
 matomo.medbox.org
@@ -33195,6 +33199,7 @@ matomo.noscendo.cloud
 matomo.novavetera.com
 matomo.noveltis.fr
 matomo.noviland.com
+matomo.novinet.de
 matomo.now-gmbh.de
 matomo.nrep.com
 matomo.nucleisys.com
@@ -33485,6 +33490,7 @@ matomo.reachmd.com
 matomo.readcoop.eu
 matomo.realestateview.com.au
 matomo.reblu.de
+matomo.rebovet.de
 matomo.redbot.one
 matomo.redthread.studio
 matomo.redusoft.de
@@ -33813,6 +33819,7 @@ matomo.strg-s.at
 matomo.stubai.at
 matomo.studio-pastore.com
 matomo.studio.se
+matomo.studio-va.fr
 matomo.studyin-uk.in
 matomo.stummkonzert.de
 matomo.sturmsignal.de
@@ -34407,6 +34414,7 @@ mautic.isha-tarot-reading.com
 mautic.itmelona.com
 mautic.jacotei.com.br
 mautic.jagodo.vn
+mautic.jeckel-lab.dscloud.me
 mautic.jonthebeach.com
 mautic.justtraveltour.com
 mautic.keepshooting.com
@@ -45239,6 +45247,7 @@ piwik.netprog.de
 piwik.netrex.nl
 piwik.netrix.com.pl
 piwik.netsample.com
+piwik.netsquad.nl
 piwik.net-up.de
 piwik.netuxo.co.uk
 piwik.netvolution.fr
@@ -48787,6 +48796,7 @@ plausible.3colorworld.org
 plausible.53dnorth.com
 plausible.54nord.net
 plausible.610digital.com
+plausible.a000001.customers.sqcloud.net
 plausible.aarone.name
 plausible.abteilung.ch
 plausible.adamu.jp
@@ -48817,6 +48827,7 @@ plausible.baguette.engineering
 plausible.banan.land
 plausible.baselgovernance.org
 plausible.beberweil.eu
+plausible.beinter.nl
 plausible.benoitblanchon.fr
 plausible.berenger.dev
 plausible.berryinternal.com
@@ -48829,6 +48840,7 @@ plausible.blank.page
 plausible.bluezoneagency.com
 plausible.b-now.com
 plausible.boegle.me
+plausible.bossert-webconcept.de
 plausible.bots.gg
 plausible.brainhurts.me
 plausible.buerobattenberg.de
@@ -48877,6 +48889,7 @@ plausible.cubecoders.com
 plausible.cyberciti.biz
 plausible.dahag-apps.de
 plausible.dah-bremerhaven.de
+plausible.darwinde.com
 plausible.dduu360.com
 plausible.deglowdesign.de
 plausible.demo.coopcloud.tech
@@ -48893,7 +48906,9 @@ plausible.digicoop.io
 plausible.diotimagroup.it
 plausible.disconnected.tech
 plausible.doma.dev
+plausible.doublesymmetry.com
 plausible.dragonfru.it
+plausible.d-stack.net
 plausible.dszymanski.pl
 plausible.dutchheight.com
 plausible.dutchis.net
@@ -48923,6 +48938,7 @@ plausible.flowcanon.com
 plausible.foglet.io
 plausible.foliel.com
 plausible.foreach.li
+plausible.forgeflow.io
 plausible.frameable.com
 plausible.freeyourmusic.com
 plausible.fretn.be
@@ -48938,12 +48954,15 @@ plausible.gearjunkie.com
 plausible.getawaywarrior.com
 plausible.glate.ch
 plausible.gofile.io
+plausible.gorbe.io
 plausible.greatnews.life
 plausible.greencloudpos.com
 plausible.grifel.app
 plausible.grysn.com
+plausible.hartenfeller.dev
 plausible.hcg.gr
 plausible.hedium.nl
+plausible.herhoffer.net
 plausible.herrblauzahn.de
 plausible.hirambusinesssolutions.com
 plausible.hiveagile.dev
@@ -48975,6 +48994,7 @@ plausible.joro.cc
 plausible.jrtashjian.com
 plausible.julianwachholz.dev
 plausible.kaas.pw
+plausible.kakk.dev
 plausible.kemnaker.go.id
 plausible.kerberos.io
 plausible.kerkdienstgemist.nl
@@ -49028,6 +49048,7 @@ plausible.midway.run
 plausible.mil.ad
 plausible.mindvoll.com
 plausible.mintrawa.com
+plausible.miprimermvp.com
 plausible.mivao.cloud
 plausible.moeritz.io
 plausible.moncefbelyamani.com
@@ -49109,6 +49130,7 @@ plausible.server.cioospacific.ca
 plausible.server.hakai.app
 plausible.server.kaaaxcreators.de
 plausible.sharky.lol
+plausible.shopasic.com
 plausible.shortdev.de
 plausible.shuchir.dev
 plausible.simonegaliotto.dev
@@ -49117,6 +49139,7 @@ plausible.simpleportfolio.app
 plausible.simpleteam.co.in
 plausible.site
 plausible.six10digital.co
+plausible.skwee357.com
 plausible.skybound.link
 plausible.skynett.fi
 plausible.slope.io
@@ -49137,6 +49160,7 @@ plausible.superadmin.es
 plausible.superdarkmodeextension.com
 plausible.supervisely.com
 plausible.svia.nl
+plausible.syslinx.org
 plausible.tadaa.fr
 plausible.tech4germany.org
 plausible.tech-asuwish.fr
@@ -49184,6 +49208,7 @@ plausible.walnut.blue
 plausible.wcedmisten.dev
 plausible.webfokus.no
 plausible.websecured.io
+plausible.web-spot.nl
 plausible.wecreatedigital.co.uk
 plausible.wegner.systems
 plausible.whyservices.net
