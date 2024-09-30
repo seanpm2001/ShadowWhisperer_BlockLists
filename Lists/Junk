@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 290
-# Updated: 9/24/2024  23:15 (11:15 PM CST)
+# Domains: 291
+# Updated: 9/30/2024  17:38 (5:38 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -176,6 +176,7 @@ tiktok-apis.com                                #TikTok
 tiktok-boe.com                                 #TikTok
 tiktokbusiness.ru                              #TikTok
 tiktokcdn.com                                  #TikTok
+tiktokcdn-eu.com                               #TikTok
 tiktokcdn-in.com                               #TikTok
 tiktokcdn-us.com                               #TikTok
 tiktok.com.c.footprint.net                     #TikTok
@@ -191,8 +192,8 @@ tiktokgram.com                                 #TikTok
 tiktokgym.com                                  #TikTok
 tiktokhi.com                                   #TikTok
 tiktokin.com                                   #TikTok
-tiktok.in                                      #TikTok
 tiktokinfo.in                                  #TikTok
+tiktok.in                                      #TikTok
 tiktokpartnersprogram.com                      #TikTok
 tiktokplay.com                                 #TikTok
 tiktokseaimpactforum.com                       #TikTok
