@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 79,480
-# Updated: 10/3/2024  15:14 (3:14 PM CST)
+# Domains: 79,482
+# Updated: 10/3/2024  16:40 (4:40 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -28317,6 +28317,8 @@ inquisitiveice.com
 inquisitiveinvention.com
 inquisitivemr.com
 insanetrack.com
+ins.elements.video
+ins.elements.video.cdn.cloudflare.net
 insent.ai
 insert.io
 inside-graph.com

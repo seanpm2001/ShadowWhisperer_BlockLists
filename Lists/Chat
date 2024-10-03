@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 435
-# Updated: 9/30/2024  21:01 (9:01 PM CST)
+# Domains: 436
+# Updated: 10/3/2024  16:40 (4:40 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -57,6 +57,7 @@ botsonic.ai
 botsupply.ai
 broadly.com
 callback-free.ru
+callbell.eu
 carrotquest.io
 cbox.co.za
 cbox.ws
