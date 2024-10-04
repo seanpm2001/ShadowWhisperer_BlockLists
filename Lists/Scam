@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 14,470
-# Updated: 10/3/2024  16:59 (4:59 PM CST)
+# Domains: 14,471
+# Updated: 10/4/2024  10:06 (10:06 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -12643,6 +12643,7 @@ systematicy.com
 szstndzsw.com
 szwstgj.com
 t1healthsolutions.com
+t3ml.com
 t50.xyz
 tableadjus.com
 tablewarebarstore.com

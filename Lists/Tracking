@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 79,497
-# Updated: 10/3/2024  23:40 (11:40 PM CST)
+# Domains: 79,546
+# Updated: 10/4/2024  10:06 (10:06 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -212,6 +212,7 @@
 4ke5b4ila.codedge.de
 4n41y71c5.cdn.speechify.com
 4seeresults.com
+4sq.com
 4stats.de
 4u.pl
 4wwq8ngezh.super-bfg.com
@@ -3360,6 +3361,8 @@ analisis.indivisual.cl
 analitica.cip.cu
 analiticadigital.es
 analitica.nexmy.net
+analiticas.tacuahost.com
+analitik.aklapara.com
 analitika.wmd-hosting.com
 analitik.edevlet.gov.tr
 analitik.obisk.net
@@ -5850,6 +5853,7 @@ analytics.digicatech.com
 analytics.digiclass.co
 analytics.digi.coffee
 analytics.digimaal.nl
+analytics.digimark.com.au
 analytics.digimprove.be
 analytics.digimprove.eu
 analytics.digimprove.nl
@@ -10091,6 +10095,7 @@ analytics.pixelbath.com
 analytics.pixeljab.com
 analyticspixel.microsoft.com
 analytics.pixel-plurimedia.fr
+analytics.pixelpoetry.dev
 analytics.pixel-point.de
 analytics.pixeltricks.de
 analytics.pixelxp.nl
@@ -10764,6 +10769,7 @@ analytics.salestratus.com
 analytics.saltandbits.com
 analytics.saltypandastudios.com
 analytics.salus-service.nl
+analytics.salzgitter-ag.com
 analytics.samad.de
 analytics.samad.eu
 analytics.samaluna.com
@@ -12309,6 +12315,7 @@ analytics.urbanscope.de
 analytics.urbanstudio.cloud
 analytics.urban-vpn.com
 analytics.urbit.org
+analytics.urgent.agency
 analytics.urotoday.com
 analytics.urskadomen.com
 analytics.uruba.mba
@@ -13070,6 +13077,7 @@ analytics.zmescience.com
 analytics.zmm-maxpol.net
 analytics.zms.hosting
 analytics.znachor.cz
+analytics.zollsoft.de
 analytics.zoma.rs
 analytics.zomnium.com
 analytics.zondagbouwkosten.nl
@@ -13116,6 +13124,7 @@ analytic.zahnarzt-renner.de
 analytic.zellerer.gmbh
 analytiikka.opintopolku.fi
 analytiikka.tyomarkkinatori.fi
+analytique.cfameriques.com
 analyti.uber.space
 analyttica.com
 analyze-82dfgsi2.m-w.com
@@ -13906,11 +13915,13 @@ atwork.kindercare.com
 a.typhone.nl
 au.arjo.com
 au.clubsolitaire.carrier.com
+audalytics.audaris.icu
 audience73.com
 audience.artcena.fr
 audienceinsights.net
 audience.io
 audienceiq.com
+audience.lirius.fr
 audiencemanager.de
 audience.medok.fr
 audience-mostread.r7.com
@@ -17382,6 +17393,7 @@ cont.sendenkaigi.com
 contxtful.com
 converdiant.com
 convernatics.com
+conversations.awra.org
 conversations.cardflight.com
 conversen.com
 conversight.ai
@@ -18321,6 +18333,7 @@ d70shl7vidtft.cloudfront.net
 d760.schaatsen.nl
 d761erxl2qywg.cloudfront.net
 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
+d7l4f34xx1kj4.cloudfront.net
 d810.mysanantonio.com
 d867x8xq12ag.cloudfront.net
 d8adriven.com
@@ -21174,6 +21187,7 @@ elqtrk.morningstar.com
 elqtrk.rsmus.com
 elsevier.com
 elsevier.io
+elsevier.nl
 eltoro.com
 e.lucasfilm.com
 elusivebreeze.com
@@ -21355,6 +21369,7 @@ enews.saks.com
 engage2.accfb.org
 engage.3csoftware.com
 engage.9principles.com
+engage.aasld.org
 engage.acctv.co
 engage.accupac.com
 engage.activeprospect.com
@@ -21392,6 +21407,7 @@ engage.huronconsultinggroup.com
 engage.icemortgagetechnology.com
 engage.innosight.com
 engage.invadosolutions.com
+engage.iowabar.org
 engage.kellyservices.com
 engage.lakeland.com
 engage.landstar.com
@@ -21424,6 +21440,7 @@ engage.studergroup.com
 engage.subsplash.com
 engage.thechicagocouncil.org
 engage.themxgroup.com
+engage.tnlaonline.org
 engage.unfoldingword.org
 engage.unify.com
 engage.uniguest.com
@@ -23298,6 +23315,7 @@ getsnowteethwhitening.com
 getsocial.io
 gets.org
 get.span.io
+getstack.com.au
 getstarted.championteamwear.com
 getstarted.ufred.ca
 getstat.net
@@ -23365,6 +23383,7 @@ giraffe.viatorci.com
 giraff.io
 gisma.gus.global
 gitea.zaqar.se
+give2charityapp.com
 giveanhour.careersandenterprise.co.uk
 givedcmc.luminishealth.org
 giveitanudge.com
@@ -24568,6 +24587,7 @@ humanpresence.app
 humansecurity.com
 humdrumhat.com
 humdrumhobbies.com
+humii.co
 hummingbird.mavencoalition.io
 hunters.ai
 huq.io
@@ -30467,6 +30487,7 @@ lsdm.co
 lstrk.net
 l.training-page.worldvision.ca
 ltrrtrk.com
+ltutv3s-prod-ind-862629009.ap-south-1.elb.amazonaws.com
 ltv-mob.com
 lubricantes.mobil.com.mx
 lubricants.mobil-asia.com
@@ -31527,6 +31548,7 @@ marqportal.com
 marriedbelief.com
 marriedmailbox.com
 marriedvalue.com
+marsbotapp.com
 marsello.com
 marsupial.dbcontractingltd.ca
 marsupial.kymellis.co
@@ -38514,6 +38536,7 @@ momntly.com
 moms.nursefamilypartnership.org
 mon16-normal-useast5.tiktokv.us
 monacobeatles.com
+monalytics.monagraphic-dev.com
 mon.byteoversea.com
 mon-com-net.com
 monetate.com
@@ -39054,6 +39077,7 @@ nebulousgarden.com
 nebulousquasar.com
 nebulousripple.com
 necessarywax.com
+nectar.run
 ne.dematic.com
 nedstatbasic.net
 nedstat.net
@@ -41212,6 +41236,7 @@ panda.teraskolmio.fi
 panda.unpublished.app
 pandoiq.com
 pandora.metamachine.co
+panelapp.me
 panelbear.com
 panhandle.americaswarriorpartnership.org
 panickycurtain.com
@@ -53373,21 +53398,29 @@ seo.letgo.com
 seoptiks.com
 seoscout.com
 seo.services-and-co.fr
+se.p.allheart.com
 separateshow.com
 separatesilver.com
 separatesort.com
 se.p.backcountry.com
 se.p.bareminerals.com
+se.p.betabrand.com
 se.p.bootbarn.com
 se.pcemails.playosmo.com
+se.p.charmingcharlie.com
 se.p.countryoutfitter.com
+se.p.dailylook.com
+se.pe.redaspenlove.com
 se.p.fwrd.com
 se.p.hurley.com
+se.p.jibjab.com
 se.p.kennethcole.com
 se.pmail.acornonline.com
 se.pmail.levenger.com
 se.p.modcloth.com
 se.p.revolve.com
+se.promo.canvaspeople.com
+se.promotions.rugs-direct.com
 se.p.shopjustice.com
 se.p.steepandcheap.com
 se.p.thefryecompany.com
@@ -59256,6 +59289,7 @@ sswmetrics.philippineairlines.com
 sswmetrics.sabre.com
 sswmetrics.sabresonicweb.com
 sswmetrics.vietnamairlines.com
+st.19mi.net
 st-a8.tscubic.com
 s.tac.co.jp
 stackanalytix.com
@@ -60198,6 +60232,7 @@ statistics.gbh-versicherungen.de
 statistics.ggew-net.de
 statistics.glyphsapp.com
 statistics.gm-benner.de
+statistics.go-2b-planer.de
 statistics.grangeweb.ch
 statistics.green-logistics-now.com
 statistics.hasselbit.com
@@ -60373,8 +60408,10 @@ statistik.dohrmann-projekt.de
 statistik.dpsg-passau.de
 statistiken.gt-net.de
 statistiken.xeomueller.de
+statistik.hohenschwangau.de
 statistik.iwconsult.de
 statistik.jetzt.at
+statistik.jsbw-server01.de
 statistik.kdrs.de
 statistikk.idrift.no
 statistik.kitzingen.de
@@ -60385,12 +60422,15 @@ statistik.landesbuero.de
 statistik.livingdata.de
 statistik.maintal.de
 statistik.media-guides.de
+statistik.mein-neuer-garten.de
 statistik.mosel-immo.de
 statistik.mpg.de
 statistik.ndfnet.de
 statistik.onlinewahlkampf.ch
 statistik.polizei-beratung.de
 statistik.pr24.ch
+statistik.redfood24.de
+statistik.rehost24.com
 statistik.rosenheim.de
 statistik.rz-betrieb.de
 statistik.svenskaakademien.se
@@ -63051,6 +63091,7 @@ stats.dieostschweiz.ch
 stats.dieses-internet.de
 stats.dietrichs.com
 stats.digdeo.fr
+stats.digicube.ch
 stats.digisense.net
 stats.digital-apps.net
 stats.digital-avocat.fr
@@ -63513,6 +63554,7 @@ stats.exasyn.com
 stats.excal.io
 stats.excellence-media.com
 stats.excuseme.wtf
+stats.exego.se
 stats.exhaust-rock.de
 stats.exigal.com
 stats.exlayclub.fr
@@ -65601,6 +65643,7 @@ stats.mawiro.pl
 stats.maxed9.de
 stats.maximebellemin.com
 stats.maxleiter.com
+stats.maxony.com
 stats.maxpartner.de
 stats.maxxim.de
 stats.maycyber.com
@@ -69839,6 +69882,7 @@ swa.postnl.nl
 swa.proflowers.com
 swa.proplants.com
 swa.regiobank.nl
+swarmapp.com
 swasc.homedepot.ca
 swasc.homedepot.com
 swasc.kaufland.bg
@@ -73054,6 +73098,7 @@ u.directcart.in
 udis.udtrucks.com
 udmserve.net
 udrig.com
+udxleads.com
 udxsva.com
 ue.flipboard.com
 ue.gus.global
@@ -74077,6 +74122,7 @@ weather-analytics-events.apple.com
 weave.ai
 web-01-gbl.com
 web1.lawsquared.co
+web95piwik.itc-halle.de
 web9.secureinternetbank.com
 web.abrigo.com
 web.admiral.com
@@ -74104,6 +74150,7 @@ web-analytics.botgenes.org
 web-analytics.buergler-it.com
 web-analytics.caderize.com
 web-analytics.ch
+web-analytics.daimlertruck.com
 webanalyticsday.com
 webanalytics.degulesider.dk
 web-analytics.digital.business.comcast.com
@@ -74158,6 +74205,7 @@ webanalytics.uss.com
 webanalytics.web.cern.ch
 web-analytics.zero-gravity-service.de
 webanalytik.digitaler-umbruch.jetzt
+webanalytik.jens-falk.it
 webapp.e-post.smn.no
 web.araglegal.com
 web.atlasroofing.com
@@ -74361,6 +74409,7 @@ webstats.kern.org
 webstats.liberale.de
 webstats.mylearnerportal.com
 webstats.ne.ch
+webstats.nsivion.net
 webstats.opensoftware.it
 web-stats.org
 webstats.oriented.net
