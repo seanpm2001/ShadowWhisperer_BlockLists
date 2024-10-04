@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 19,555
-# Updated: 10/4/2024  10:06 (10:06 AM CST)
+# Domains: 19,560
+# Updated: 10/4/2024  16:44 (4:44 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2070,6 +2070,7 @@ admicro1.vcmedia.vn
 admicro.vn
 admidadsp.com
 admidainsight.com
+admile.com
 admile.ru
 adminder.com
 admine.co.kr
@@ -3638,6 +3639,7 @@ adserver.popyard.space
 adserver.poringa.net
 adserver.postboxen.com
 adserver.pramnoshosting.gr
+adserver-prd-ccip.ippon-hosting.com
 adserver.premadev.com
 adserver.pressboard.ca
 adserver.pressflex.com
@@ -4076,6 +4078,7 @@ adservrs.com
 adserv.tipsmaker.net
 adserv.turmantech.com
 adserv.webter.hu
+ads.esomall.com
 ads.especo.pl
 adsession.com
 ads.esteriol.com
@@ -4103,6 +4106,7 @@ ads.extrajaen.com
 ads.extremaduranegocios.com
 ads.extremehowto.com
 ads.extremnews.com
+ads.ezyhostr.com
 ads.f2d.gr
 ads.fabtechexpo.com
 adsfac.eu
@@ -4312,6 +4316,7 @@ ads.hussverlag.de
 ads.hwlabs.pl
 ads.hyper.com.gr
 ads.hypercom.gr
+ads.i3network.net.d03.i3network.net
 ads.i9sergipe.com.br
 ads.iamblackbusiness.com
 ads.ibnd.com.br
