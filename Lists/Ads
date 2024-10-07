@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 19,560
-# Updated: 10/4/2024  16:44 (4:44 PM CST)
+# Domains: 19,566
+# Updated: 10/7/2024  08:56 (8:56 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -5021,6 +5021,7 @@ ads.russmedia.com
 adsrv2.moebelmarkt.tv
 adsrv2.swidnica24.pl
 adsrv4k.com
+adsrv.actionforex.com
 adsrv.advanced-television.tv
 adsrv.alter.si
 adsrv.bangbros.com
@@ -5242,6 +5243,7 @@ ads.thaiware.com
 ads.thebangkokinsight.com
 ads.thebeautybiz.com
 ads.thebeerguy.ca
+ads.thebftonline.com
 ads.the-building.eu
 ads.thecable.ng
 ads.thecage.co.il
@@ -10123,6 +10125,9 @@ favouritecash.com
 fbappi.co
 fbcctf.com
 fbofferads.com
+fcm.googleapis.com
+fcmtoken.googleapis.com
+fcm-xmpp.googleapis.com
 fcwuye.com
 fc.yahoo.com
 fderty.com
@@ -16922,6 +16927,7 @@ sparkstudios.in
 sparteo.com
 sp-consent.schwarzwaelder-bote.de
 speakol.com
+spearad.video
 specialadservice.com
 specificmedia.com
 spectrumreach.com
