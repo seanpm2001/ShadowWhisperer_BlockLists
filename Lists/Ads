@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 19,566
-# Updated: 10/7/2024  08:56 (8:56 AM CST)
+# Domains: 19,567
+# Updated: 10/9/2024  11:24 (11:24 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -15514,6 +15514,7 @@ revistavanityfair.contentondemand.es
 revive.3wayint.com
 revivead.76.my
 revive.adriadigital.si
+revive-adserver.celcen.com.pl
 revive-adserver.com
 reviveadserver.com
 revive-adserver.flexejendom.dk
