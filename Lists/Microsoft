@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 637
-# Updated: 8/21/2024  08:43 (8:43 AM CST)
+# Domains: 636
+# Updated: 10/10/2024  15:22 (3:22 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -428,7 +428,6 @@ amcdn.msftauth.net
 api.cdp.microsoft.com
 api.cognitive.microsoft.com
 api.myaccount.microsoft.com
-api.myapplications.microsoft.com
 api.mysignins.microsoft.com
 a-ring-fallback.msedge.net
 augloop.office.com
