@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 19,568
-# Updated: 10/11/2024  00:11 (12:11 AM CST)
+# Domains: 19,579
+# Updated: 10/14/2024  14:19 (2:19 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -186,6 +186,7 @@
 1x1.a-mo.net
 1xbtc.io
 1xroom.com
+2001.atudo.com
 200.94.201.35.bc.googleusercontent.com
 2020mustang.com
 2022welcome.com
@@ -5552,11 +5553,16 @@ ads.zsezt.com
 ads.zsezt.com.cname2039.yjs-cdn.com
 ads.zunia.vn
 ads.zygon.com.br
+adt311.net
 adt313.net
 adt348.net
 adt356.com
 adt357.net
 adt361.com
+adt376.net
+adt387.com
+adt389.net
+adt393.com
 adt511.net
 adt512.com
 adt523.net
@@ -8063,6 +8069,7 @@ campaign.avg.com
 campaign.dasmart.eu
 campaign.esdlife.com
 campaignlake.com
+campaigns.asianetnews.com
 campaigns.avira.com
 campaigns.jewishpress.com
 campaigns.scdn.co
@@ -13555,6 +13562,7 @@ njhtcz.com
 nkispa.nikkei.com
 nl01.net
 nlbanner.nl
+nmas.nowmedia.co.za
 nmd.dk
 nn11001.com
 nnaisn.com
@@ -15341,6 +15349,7 @@ realpush.media
 realpush.net
 realpush.network
 realpush.news
+realpush.pro
 realsexcash.com
 realsrv.com
 realssp.co.kr
@@ -15528,6 +15537,7 @@ reviveads.faktor.bg
 revive.agenda.ge
 revive.aris.ge
 revive.atime.live
+revivecdn-metartnetwork.b-cdn.net
 revive.digitaldoowop.com
 revive.dubcnm.com
 revive.foodbev.com
@@ -19076,6 +19086,7 @@ wwiw.online
 wwsw.online
 www1.cap-cap-pop.com
 www1.data-data-vac.com
+www2.elecfans.com
 www4.hentaigamecg.com
 www5.technews.tw
 www6.freeanimesource.com
