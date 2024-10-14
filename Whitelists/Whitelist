@@ -200,6 +200,7 @@ acctcdn.msftauth.net                                #Microsoft   Create Email Ac
 eus.client.hip.live.com                             #Microsoft   Create Email Account (Captcha)
 scu.client.hip.live.com                             #Microsoft   Create Email Account (Captcha)
 ncu.client.hip.live.com                             #Microsoft   Create Email Account (Captcha)
+fpt.live.com                                        #Microsoft   Create Email Account (Captcha) *Does not display
 msft.hsprotect.net                                  #Microsoft   Create Email Account (Captcha) *HumanSecurity
 packages.microsoft.com                              #Microsoft   Download Files (edge.deb)
 assets.onestore.ms                                  #Microsoft   Downloads Page

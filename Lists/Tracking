@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 79,663
-# Updated: 10/12/2024  14:37 (2:37 PM CST)
+# Domains: 79,662
+# Updated: 10/14/2024  14:41 (2:41 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -22733,7 +22733,6 @@ fps-prod-na-frontdoor.z01.azurefd.net
 fpt2.microsoft.com
 fpt.absa.co.za
 fpt.dfp.microsoft.com
-fpt.live.com
 fptls3.com
 fptls.com
 fp-vp.azureedge.net
