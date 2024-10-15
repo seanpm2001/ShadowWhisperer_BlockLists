@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 14,473
-# Updated: 10/11/2024  00:11 (12:11 AM CST)
+# Domains: 14,475
+# Updated: 10/14/2024  23:32 (11:32 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3770,6 +3770,7 @@ destinedpoodles.com
 destineybordercollies.com
 destinybalinese.com
 destinypomeranianpuppies.com
+destinyteacupchihuahuahome.com
 destuny.es
 destuny.fr
 detailedvehiclehistory.com
@@ -9774,6 +9775,7 @@ peoriastandard.com
 pepegroodlepuppies.com
 peppatees.com
 peppyblueheelers.com
+peppydobermanpuppies.com
 percocetpills.com
 percussioncaps10.net
 perfectearners.com
