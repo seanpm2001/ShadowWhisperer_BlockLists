@@ -1,8 +1,8 @@
 #
 #    File: Cryptocurrency
 #    Info: Bitcoin, Ethereum, Mining, etc
-# Domains: 1,051
-# Updated: 9/4/2024  12:23 (12:23 PM CST)
+# Domains: 1,052
+# Updated: 10/16/2024  11:13 (11:13 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -574,6 +574,7 @@ kaspa.org
 kaspa-pool.org
 kawkawcoin.org
 kdowqlpt.info
+keplr.app
 kievpool.com
 kiirocoin.org
 kipcoin.org
