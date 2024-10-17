@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 90,941
-# Updated: 10/16/2024  18:20 (6:20 PM CST)
+# Domains: 90,943
+# Updated: 10/17/2024  09:43 (9:43 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -63152,6 +63152,7 @@ s1734025471.t.eloqua.com
 s1777052651.t.eloqua.com
 s1.soundvenue.com
 s1.subaru.com
+s2068514591.t.eloqua.com
 s20.tiktokcdn.com
 s20.ucoz.net
 s232.theintelligencer.com
@@ -83792,6 +83793,7 @@ track.unidata.ai
 track.unkonito.com
 trackup99.com
 trackurl-secure.com
+track.us.org
 track.valerysummervideos.com
 track.vercapas.com.br
 track.viasuprimentos.com.br
