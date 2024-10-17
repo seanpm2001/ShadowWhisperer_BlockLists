@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 90,945
-# Updated: 10/17/2024  12:16 (12:16 PM CST)
+# Domains: 90,977
+# Updated: 10/17/2024  15:02 (3:02 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -34,6 +34,7 @@
 131events.net
 1357track.com
 13strides.com
+13strides.co.uk
 149b4.wpc.azureedge.net
 15gifts.com
 1733.visitsavannah.com
@@ -42,6 +43,7 @@
 184.48.190.35.bc.googleusercontent.com
 1909a8.satofull.jp
 1976.hallswindowcenter.com
+1984.b.delire.party
 1.adidevelopments.com
 1annuaire.com
 1.appexchange.com
@@ -3384,9 +3386,7 @@ analyselog.dx.com
 analyseweb.huma-num.fr
 analysis.afreecatv.com
 analysis.cupshe.com
-analysis-js.leadscloud.com
 analysis.kfconcept.com
-analysis.leadscloud.com
 analysis.mofcom.gov.cn
 analysis.polarisoffice.com
 analysis-seeker.top
@@ -13654,6 +13654,7 @@ appcarry.com
 appcelerator.com
 appcelerator.net
 appcounter.pconline.com.cn
+appcues.arken.legal
 appcues.com
 appcues.net
 appdata.insta360.cn
@@ -15934,6 +15935,7 @@ cdn.groupbycloud.com
 cdn.inschool.fi
 cdn.instapagemetrics.com
 cdn.krausebrokerage.com
+cdn.laim.tv
 cdn.levelaccess.net
 cdn.livecounter.theyosh.nl
 cdn.lr-in.com
@@ -15970,6 +15972,7 @@ cdn.threadloom.com
 cdn.tietoakseli.fi
 cdn.tokopedia.net
 cdn.virtuoussoftware.com
+cdn.wannaspeak.com
 cdn.watchingthat.net
 cdnweb.aoscdn.com
 cdn.ywxi.net
@@ -16367,6 +16370,7 @@ clevermaps.io
 clevertap.com
 clevertap-prod.com
 clevis-research.de
+clevnet.patronpoint.com
 cl.growwwing.jp
 clic2buy.com
 click1.canadianvisaexpert.net
@@ -16474,6 +16478,7 @@ clickmagick.com
 clickmatic.pl
 clickmeter.com
 click.mmwealth.com
+click.netsuite.com
 clicknurture.com
 clickocean.io
 clickon.co.il
@@ -17661,6 +17666,7 @@ co.rezdy.com
 corp.atlas-arc.com
 corp.dancyu.jp
 corporate.avinor.no
+corporate.qiagen.com
 corporate.stationcasinos.com
 corp.president.co.jp
 corp.president.jp
@@ -21116,6 +21122,7 @@ echidna.everythought.app
 echidna.eyalgantz.me
 echidna.hellotomorrow.agency
 echidna.scandinaviantaste.no
+echo.captchafox.com
 echoinghaven.com
 echoip.de
 echoip.ir
@@ -21991,6 +21998,7 @@ event-resources.pathable.com
 events2.shearwatergeo.com
 events3.bqstreamer.com
 events.3ds.com
+events.adorsi.com
 events.ahic.com.ahic.com
 events.air.tv
 events.alefeducation.com
@@ -22053,6 +22061,7 @@ events.hu.nl
 events.iap.unity3d.com
 events.iasa.org
 events.ifunny.co
+events.ihcairoeg.com
 events.institutmontaigne.org
 events.internationalhu.com
 events.intuit.launchdarkly.com
@@ -22170,6 +22179,7 @@ ew.caixa.gov.br
 e.webfleet.com
 ewebsitecounter.com
 e-webtrack.net
+eweb.truenorthcompanies.com
 ew.elliswhittam.com
 e.wework.com
 ewgestor.caixa.gov.br
@@ -22815,6 +22825,7 @@ form.rocinantes.org
 forms2.irdeto.com
 form.sanyo-fast.com
 forms-apac-news.sika.com
+forms.apsisforms.com
 forms.armstrongadvisory.com
 forms.cardinalhealth.ca
 forms.creatoriq.com
@@ -29195,6 +29206,7 @@ iv.hendriksontwerp.nl
 ivitrack.com
 ivstracker.net
 ivwbox.de
+ivw.nordkurier.de
 ivykiosk.com
 iwa3.hit.interia.pl
 iwebanalytics.com
@@ -29432,6 +29444,7 @@ kc0trk.com
 kcecv.doctork.jp
 kcf.wowma.jp
 kcpa.kingcenter.com
+kcpltn.patronpoint.com
 kctag.net
 kd93trk.com
 kdhhe13.com
@@ -29687,6 +29700,7 @@ la2.vnecdn.net
 labcorp.integratedgeneticsinfo.com
 labcorp.labcorpwomenshealth.com
 labcorp.labcorpwomenshealthivf.com
+lab-js-abtest.lazada.com
 laboredlight.com
 laboredlocket.com
 la.brenntag.com
@@ -29821,6 +29835,7 @@ leadpages.io
 leadplace.fr
 leadportal.com
 leads.alpha.ca
+leadscloud.com
 leadscope.de
 leadsflo.co
 leadshook.io
@@ -29939,6 +29954,7 @@ lemur.a-and-a-trucking.com
 lemur.bendaron.com
 lemur.joliebulle.org
 lemur.prinsdalpizza.no
+l.engage.canva.com
 leopard.davidlindahlphoto.com
 leopard.joytotheworld.info
 leopard.laszlo.cloud
@@ -29983,7 +29999,6 @@ lg.nanda.vn
 lg-release-tracking-8080.gcld-line.com
 lhinsights.com
 liberty.logs.roku.com
-lib.leadscloud.com
 liblynx.com
 lib.onet.pl
 library.axial.net
@@ -48641,6 +48656,7 @@ monitor-api-public-iad.amazon.com
 monitor-api-public-pdx.amazon.com
 monitor.azure.com
 monitor.channel4.com
+monitor.dmb.at
 monitor.ebay.com
 monitor.ecbrands.com
 monitor.exe-app.com
@@ -50094,6 +50110,7 @@ om.vrbo.com
 o.mylifetime.com
 om.zdnet.com.au
 onaudience.com
+onboarding.preparedapp.com
 onboardstats.co.uk
 onclusive.com
 onclusive.net
@@ -64957,16 +64974,26 @@ s.hamiltonnews.com
 shapecast.com
 shapecomb.com
 shapes.ai
+share.advanceamerica.net
 shareaholic.com
 shareaholic.net
+share.brava.com
 sharedcontent.consultimi.com
 sharedcount.com
 sharedid.org
 shared.pdffiller.com
+share.elysiumhealth.com
+share.giftcardgranny.com
+share.greenlight.com
 share.operativeiq.com
 share.salesapps.io
+share.simonandschuster.com
+share.theprisonerwinecompany.com
 sharetrackr.com
+share.united.net
 share.verafin.com
+share.vonage.com
+share.zenbusiness.com
 shark.codeswitch.be
 shark.getplayback.com
 shark.johnschmidt.de
@@ -69045,6 +69072,7 @@ sms.realmadrid1.test.cjmadobe.com
 sms.riteaid.com
 sm.stjude.org
 sm.sungardas.com
+smt.belecoacademy.com
 smtc.jetstar.com
 smtc.qantas.com
 smtc.qantas.com.au
@@ -71422,6 +71450,7 @@ static.oktopost.com
 static.p-g.one
 static.sahibinden.com
 static.socialshopwave.com
+statics.sanchoelsabio.eus
 static-star.jjshouse.com
 stat.ict-as.dk
 static.thedodo.com
@@ -85576,6 +85605,7 @@ webanalytics.logitech.com.cn
 webanalytics.logitechg.com
 webanalytics.logitechg.com.cn
 web-analytics.maxxxmedia.com
+webanalytics.medialibrary.it
 web-analytics.mona.host
 webanalytics.neovanto.com
 web-analytics.nftconsult.com
@@ -86226,6 +86256,7 @@ wss.mansion.com
 wss.media
 ws-statistiche.tecnocasa.com
 wstats.e-wok.tv
+wstats.siemens-stiftung.org
 wsts.duit.de
 wsv3cdn.audioeye.com
 wsw.voicemod.net
@@ -86259,6 +86290,7 @@ wup.openbank.com
 wurfl.io
 w.usabilla.com
 wvlex0vl.loyaltystars.com
+w.vpnalert.com
 wvr.wyndhamvacationresorts.com
 wvv.source1purchasing.com
 wvvw.emcare.com

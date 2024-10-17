@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,211
-# Updated: 10/16/2024  11:13 (11:13 AM CST)
+# Domains: 3,215
+# Updated: 10/17/2024  15:02 (3:02 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1049,6 +1049,7 @@ golink.one
 go-links.net
 golink.us
 golnk.eu
+go.lsb.nrw
 gol.to
 goninja.live
 goo2url.com
@@ -1504,6 +1505,7 @@ linkmpomax.live
 link.mtvrs.it
 linkotw.live
 linkpays.in
+link.phsz.ch
 linkrefferal.vip
 links4money.com
 linksable.to
@@ -1573,6 +1575,7 @@ looktiny.com
 loom.ly
 loooves.com
 lop-o.live
+losangeles.daype.com
 lou.ly
 loveer.win
 lowrihouston.pro
@@ -2951,6 +2954,7 @@ urlty.co
 urluno.com
 url.usacomment.com
 urlverkorten.com
+url.vhearts.net
 urlxray.com
 urly.co
 urlz.at
