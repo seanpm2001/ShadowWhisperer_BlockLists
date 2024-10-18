@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 91,404
-# Updated: 10/18/2024  11:42 (11:42 AM CST)
+# Domains: 91,432
+# Updated: 10/18/2024  14:38 (2:38 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -55,6 +55,7 @@
 1.cpanel.net
 1-creative-1.com
 1dmp.io
+1.dr-n.pl
 1e90.pandasuite.io
 1.forumgroup.com.au
 1.getnspace.com
@@ -3376,6 +3377,7 @@ analiticadigital.es
 analitic.analistgroup.com
 analitica.nexmy.net
 analiticas.tacuahost.com
+analitika.derp.si
 analitik.aklapara.com
 analitika.wmd-hosting.com
 analitik.edevlet.gov.tr
@@ -6227,6 +6229,7 @@ analytics.egallery-enterprises.ca
 analytics.egernsund.com
 analytics.egernsund.de
 analytics.eggoffer.com
+analytics.ehealthplatform.info
 analytics.ehealth-tec.de
 analytics.eichinger-industrie.de
 analytics.eigens-intern.de
@@ -9333,6 +9336,7 @@ analytics.morganhvidt.com
 analytics.moritzfaehse.de
 analytics.mormanski.net
 analytics.morningbird.eu
+analytics.morpheus.host
 analytics.morsecode.world
 analytics.mortolli.de
 analytics.mosaic-expedition.org
@@ -9504,6 +9508,7 @@ analytics.naito.one
 analytics.na.lv
 analytics.nambit.solutions
 analytics.nameoptions.com
+analytics.nammert.com
 analytics.nandoschmidlin.ch
 analytics.nanoweb.ch
 analytics.naoh.host
@@ -10079,6 +10084,7 @@ analytics.partisk.nu
 analytics.parts2go.de
 analytics.partslife.com
 analytics.party
+analytics.pascaliske.dev
 analytics.pascalresch.de
 analytics.pascalw.me
 analytics.pasco.com
@@ -11619,6 +11625,7 @@ analytics.spy.de
 analytics.sqrd-prod.com
 analytics.sqrt.io
 analytics.squareloop.io
+analytics.squidbase.org
 analytics.squidvision.com
 analytics.sre.gob.mx
 analytics.srichinmoysongs.com
@@ -12262,6 +12269,7 @@ analytics.tools.pt-infra.net
 analytics.tools.sd-server.de
 analytics.toouls.at
 analytics.top40-charts.com
+analytics.topcontent.com
 analytics.topicusplatform.nl
 analytics.topiet.de
 analytics.toplevel-traduceri.ro
@@ -12341,6 +12349,7 @@ analytics.trendico.net
 analytics.trendkraft.io
 analytics.trentinosviluppo.it
 analytics.treppenlift-zentrum.de
+analytics.tribunadepetropolis.com.br
 analytics.triebwerk3.ch
 analytics.trilogie.de
 analytics.trina.nl
@@ -12357,6 +12366,7 @@ analytics.tritan.gg
 analytics.trivano.group
 analytics.trocknung-prebitz.de
 analytics.troeschs.de
+analytics.trojsten.sk
 analytics.trombetta.me
 analytics.trommel-bass.de
 analytics.tromsdorf.com
@@ -13852,6 +13862,7 @@ aquare.la
 aquaticalarm.com
 aquaticanswer.com
 aquaticowl.com
+aquaticpros.connectedcommunity.org
 aqueousdt.com
 a.questico.de
 aquicore.com
@@ -17194,6 +17205,7 @@ connect2.asana.com
 connect2.attachtrauma.org
 connect.abi.org
 connect.altusgroup.com
+connect.aquaticpros.org
 connect.asus.com
 connect.atriuminvest.com.au
 connect.bakerhill.com
@@ -24224,6 +24236,7 @@ gsp85-ssl.ls.apple.com
 gsp8-ssl.apple.com
 gsp9-ssl.apple.com
 g.sst.godaddy.com
+gtdb-stats.ecogenomic.org
 gtktomlw.com
 gtm.4patriots.com
 gtm.aeg.co.uk
@@ -32000,6 +32013,7 @@ matomo2.federleicht.cc
 matomo2.land24.de
 matomo2.mousemux.com
 matomo.2punkt2.net
+matomo2.site.supplies
 matomo2.tradium.net
 matomo.2tservices.de
 matomo31.mpsa.com
@@ -32509,6 +32523,7 @@ matomo.codesmarter.de
 matomo.coding-lemur.de
 matomo.codio.nl
 matomo.codydawg.de
+matomo.cognix-systems.net
 matomo.colaboratorio.net
 matomo.colectic.coop
 matomo.colibrilearning.xyz
@@ -33134,6 +33149,7 @@ matomo.holypoly.sandstorm.de
 matomo.holzdiesonne.net
 matomo.holzweg.tv
 matomo.homepage-helden.de
+matomo.home.phunsoft.de
 matomo.horn-ist-vorn.at
 matomo.horschler.info
 matomo.hospices-de-beaune.com
@@ -33295,6 +33311,7 @@ matomo.ja-internet.de
 matomo.jalis.pro
 matomo.jam-software.com
 matomo.jam-software.de
+matomo.janetschek.at
 matomo.japan-gourmet.com
 matomo.jasoseol.com
 matomo.jccm.es
@@ -34365,6 +34382,7 @@ matomo.smart-home.wien
 matomo.smartlabs.at
 matomo.smartpage.com.de
 matomo.smart-study.at
+matomo.smig2.bitmi.de
 matomo.smpmedia.net
 matomo.sms77.io
 matomo.sms-group-connects.com
@@ -34669,6 +34687,7 @@ matomo.uniplus-software.de
 matomo.uni-trier.de
 matomo.univ-amu.fr
 matomo.universalware.de
+matomo.univ-grenoble-alpes.fr
 matomo.u-paris2.fr
 matomo.uppsala.se
 matomo.uptobox.biz
@@ -34888,6 +34907,7 @@ matomo.xm.vn.ua
 matomo.xn--rber-loa.services
 matomo.x-srv.de
 matomo.xsystem.ir
+matomo.xvid.com
 matomo.y8.com
 matomo.yachtcopter.com
 matomo.yayajewelry.com
@@ -35277,6 +35297,7 @@ mc.yandex.md
 mc.yandex.ru
 mczbf.com
 m.destinocerto.com.br
+mdf-analytics.rheindenken-digital.de
 mdh-pa.googleapis.com
 mdotlabs.com
 mdr.esentire.com
@@ -52658,6 +52679,7 @@ piwik.2stat.eu
 piwik2.univ-montp3.fr
 piwik.2watt.net
 piwik2.websuite.de
+piwik2.yum.de
 piwik.32fly.com
 piwik.3720.co.uk
 piwik.3banken.net
@@ -54030,6 +54052,7 @@ piwik.eshop-rychle.cz
 piwik.eshop-rychlo.sk
 piwik.eshop-schnell.com
 piwik.eskale.fr
+piwik.espaces-naturels.fr
 piwik.esprits.co
 piwik.espydo.de
 piwik.esseiva-jewels.com
@@ -60652,6 +60675,7 @@ plausible.alexisreverte.tech
 plausible.alinpanaitiu.com
 plausible.allien.work
 plausible.ams.to
+plausible-analysis.cstcloud.cn
 plausible-analytics.erisa.uk
 plausibleanalytics.eurofins.com
 plausible-analytics.forest-app.co
@@ -60667,6 +60691,7 @@ plausible.arcange.eu
 plausible.ardupilot.org
 plausible.atomtigerzoo.com
 plausible.auroville.org.in
+plausible.avogadro.kamikamamak.fr
 plausible.avris.it
 plausible.ayedo.de
 plausible.baguette.engineering
@@ -60768,6 +60793,7 @@ plausible.doublesymmetry.com
 plausible.dragonfru.it
 plausible.d-stack.net
 plausible.dszymanski.pl
+plausible.duoly.es
 plausible.dutchheight.com
 plausible.dutchis.net
 plausible.earthmc.net
@@ -60950,6 +60976,7 @@ plausible.neoprotect.net
 plausible.netaddiction.it
 plausible.neurobagel.org
 plausible.nextchessmove.com
+plausible.nextjournal.com
 plausible.nflibrary.ca
 plausible.nienormaal.be
 plausible.ninc.at
@@ -84431,6 +84458,7 @@ trendalyze.com
 trendemon.com
 trender.net.au
 trendmatrix.com
+trends.digitaldefenders.org
 trends.ent.iastate.edu
 trends.newsmaxwidget.com
 t.rentcafe.com
