@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,215
-# Updated: 10/17/2024  15:02 (3:02 PM CST)
+# Domains: 3,216
+# Updated: 10/18/2024  11:42 (11:42 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1173,6 +1173,7 @@ htgi.ru
 hts.io
 httpreferer.net
 hu.berlin
+hub.fm
 huff.to
 humanityforgaza.live
 hurirk.net
