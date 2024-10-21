@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 19,702
-# Updated: 10/21/2024  11:51 (11:51 AM CST)
+# Domains: 19,708
+# Updated: 10/21/2024  14:48 (2:48 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1553,6 +1553,7 @@ ad.fhr.ro
 adfilmmakers.com
 ad.filmpalota.hu
 ad.findic.com
+ad.finetech.cz
 adfingers.com
 adfinity.pro
 adfinix.com
@@ -3516,6 +3517,7 @@ adserver.kl-youniverse.com
 adserver.kontent.com
 adserver.konthong.com
 adserver.koza.press
+adserver.kozoom.com
 adserver.kuhn-fachmedien.de
 adserver.kundenfenster.de
 adserver.land24.de
@@ -3709,6 +3711,7 @@ adserver.sigma-foto.de
 adserver.skaterock.cz
 adserver.skiresort-service.com
 adserver.skitips.eu
+adserver.smartframe.io
 adserver.smartmediabus.com
 adserver.smgfiles.com
 adserver.socastdigital.com
@@ -5135,6 +5138,7 @@ ads.slava.bg
 ads.sletat.ru
 ads.slybaldguys.net
 ads.smartlytechs.com
+ads.smn.rs
 ads.snowforecast.com
 ads.snowshoemag.com
 ads.socialbuey.com
@@ -6077,6 +6081,7 @@ adv.strategy.it
 advstream.com
 adv-sv-show.focus.cn
 ad.vu
+adv.unionesarda.it
 advurl.com
 advvideostream.com
 adv.virgilio.us
@@ -6208,6 +6213,7 @@ ad.yesurdu.com
 ad.yfsz.top
 ad.yicai.com
 adyield.co
+ad.yna.co.kr
 ad.yonhapnews.co.kr
 adyoulike.com
 adyourservice.nl
