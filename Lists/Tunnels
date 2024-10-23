@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 894
-# Updated: 9/16/2024  17:14 (5:14 PM CST)
+# Domains: 895
+# Updated: 10/23/2024  11:17 (11:17 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -225,6 +225,7 @@ forwardproxie.com
 fpn.firefox.com
 fproxy.net
 free4proxy.tv
+freeanimesonline.com
 freebypassproxy.com
 freecanadavpn.com
 freecloudvpn.com
