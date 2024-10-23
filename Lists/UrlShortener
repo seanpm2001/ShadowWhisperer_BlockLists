@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,222
-# Updated: 10/22/2024  12:05 (12:05 PM CST)
+# Domains: 3,226
+# Updated: 10/23/2024  10:21 (10:21 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -503,6 +503,7 @@ bst.gg
 bstnd.in
 btco.link
 bt.ke
+bubbleurl.com
 buff.link
 buho.link
 buka.red
@@ -1571,6 +1572,7 @@ lnk.vn
 lnkw.co
 lo.ge
 loginmaxwin.pro
+loginsaja.website
 loki.at
 lompat.xyz
 longurl.in
@@ -1784,6 +1786,7 @@ mtiny.org
 mtny.mobi
 mub.me
 multishorturl.com
+mumy.me
 mundoonatural.com
 murl.com
 murls.xyz
@@ -2261,6 +2264,7 @@ sanilac.gives
 savenoperarte.com
 savetub.com
 savyour.app
+sayahna.net
 say.it
 sazi.to
 sbgo.io
