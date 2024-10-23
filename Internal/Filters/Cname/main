@@ -1,3 +1,4 @@
+alibabadns.com                                                 #Generic
 aliyuncs.com                                                   #Generic
 azurewebsites.net                                              #Generic
 cloudflare.net                                                 #Generic
@@ -8,6 +9,9 @@ vercel-dns.com                                                 #Generic
 wixdns.net                                                     #Generic
 wpenginepowered.com                                            #Generic
 wpeproxy.com                                                   #Generic
+
+mktossl.com                                                    #Generic-Ignore
+mktoweb.com                                                    #Generic-Ignore
 
 connectedcommunity.org                                         #Redirect
 higherlogic.com                                                #Redirect
@@ -44,6 +48,7 @@ d3ero110829hmj.cloudfront.net                                  #Tracker
 dataunlocker.com                                               #Tracker
 dmanalytics1.com                                               #Tracker
 edgetag.io                                                     #Tracker
+external.simpleanalytics.com                                   #Tracker
 getclicky.com                                                  #Tracker
 getrockerbox.com                                               #Tracker
 go.pardot.com                                                  #Tracker
