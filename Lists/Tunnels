@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 895
-# Updated: 10/23/2024  11:17 (11:17 AM CST)
+# Domains: 896
+# Updated: 10/24/2024  17:00 (5:00 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -729,6 +729,7 @@ unblocked.black
 unblockedbook.net
 unblocked.buzz
 unblocked.cloud
+unblocked.foo
 unblocked.green
 unblocked.help
 unblocked.how
