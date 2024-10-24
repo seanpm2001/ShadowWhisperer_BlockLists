@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 436
-# Updated: 10/3/2024  16:40 (4:40 PM CST)
+# Domains: 437
+# Updated: 10/24/2024  14:32 (2:32 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -91,6 +91,7 @@ chat-bot.nalog.ru
 chatbot.novaonx.com
 chatbot.pef.czu.cz
 chatbot-staging.novaonx.com
+chatbot.suncorpbank.com.au
 chatbotthoitrang.novaonx.com
 chatbottudong.novaonx.com
 chatbro.com

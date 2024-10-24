@@ -10,6 +10,7 @@ wixdns.net                                                     #Generic
 wpenginepowered.com                                            #Generic
 wpeproxy.com                                                   #Generic
 
+affilbox.cz                                                    #Generic-Ignore
 mktossl.com                                                    #Generic-Ignore
 mktoweb.com                                                    #Generic-Ignore
 
@@ -34,29 +35,47 @@ urlforward.namebright.com                                      #Parked
 #####################################################
 # Block
 #####################################################
+client.grv.media                                               #Ad
 postrelease.com                                                #Ad
 rs-stripe.com                                                  #Ad
+with.contentpass.net                                           #Ad
 
 wpu.sh                                                         #Malware
 
 2o7.net                                                        #Tracker
 actonsoftware.com                                              #Tracker
 analytics.4success.com.br                                      #Tracker
+app.leadsrx.com                                                #Tracker
+audience.kevel.com                                             #Tracker
+clicktripz.com                                                 #Tracker
+cname.cordial.com                                              #Tracker
 collector.xhamster.com                                         #Tracker
+custom-domains.appcues.com                                     #Tracker
 custom-tracking.salesloft.com                                  #Tracker
 d3ero110829hmj.cloudfront.net                                  #Tracker
+data.adobedc.net                                               #Tracker
 dataunlocker.com                                               #Tracker
 dmanalytics1.com                                               #Tracker
 edgetag.io                                                     #Tracker
+etracker.com                                                   #Tracker
 external.simpleanalytics.com                                   #Tracker
+first-party-js.datadome.co                                     #Tracker
 getclicky.com                                                  #Tracker
 getrockerbox.com                                               #Tracker
 go.pardot.com                                                  #Tracker
 iocnt.net                                                      #Tracker
+nc0.co                                                         #Tracker
 omtrdc.net                                                     #Tracker
+open-analytics.se                                              #Tracker
+opsone-analytics.ch                                            #Tracker
 pixel.hotmart.com                                              #Tracker
+segmetrics.io                                                  #Tracker
 simpleanalyticsexternal.com                                    #Tracker
 spgo.io                                                        #Tracker
+stape.io                                                       #Tracker
 starman.fathomdns.com                                          #Tracker
 stat-pulse.com                                                 #Tracker
 stats.uptimerobot.com                                          #Tracker
+usermaven.com                                                  #Tracker
+web.snrbox.com                                                 #Tracker
+we-stats.com                                                   #Tracker
