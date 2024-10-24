@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,226
-# Updated: 10/23/2024  10:21 (10:21 AM CST)
+# Domains: 3,233
+# Updated: 10/24/2024  01:28 (1:28 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -506,6 +506,8 @@ bt.ke
 bubbleurl.com
 buff.link
 buho.link
+bui.st
+buka.coffee
 buka.red
 buka.wine
 bulink.co
@@ -1928,6 +1930,7 @@ oii.io
 ok2.com
 okachi.info
 okachi.life
+okeegas.win
 okshort.net
 omedia.live
 omegalinks.in
@@ -1977,6 +1980,7 @@ paisakamalo.in
 paksa.click
 panachex.ch
 pancitkantonan.life
+pandagemoy.lol
 papertours.com
 parg.aparg.com
 parg.co
@@ -2270,10 +2274,12 @@ sazi.to
 sbgo.io
 sbms.biz
 s.bnpb.go.id
+sbotangandewa.com
 sbsb.kr
 s.bts-ev.de
 sbwiki.site
 sc1o.com
+scbetgacorr.org
 s.cdw.ro
 schoolstorehms.live
 scientificglobalevents.com
@@ -2904,6 +2910,7 @@ url.eefocus.com
 urle.me
 urlex.org
 urlexpander.org
+urlf.cc
 urlflea.com
 url.fti.or.th
 urlgit.com
