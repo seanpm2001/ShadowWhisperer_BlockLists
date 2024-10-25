@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,239
-# Updated: 10/25/2024  12:29 (12:29 PM CST)
+# Domains: 3,240
+# Updated: 10/25/2024  12:58 (12:58 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -768,6 +768,7 @@ dktlg.com
 dld.bz
 d.looks.wang
 dly.es
+d.minifun.games
 dmprd.com
 dmvrenew.com
 dn303.online
