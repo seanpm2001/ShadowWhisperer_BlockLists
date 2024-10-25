@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,237
-# Updated: 10/24/2024  20:39 (8:39 PM CST)
+# Domains: 3,239
+# Updated: 10/25/2024  12:29 (12:29 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1364,6 +1364,7 @@ kisaca.site
 kisa.link
 kisa.pro
 kisaurl.org
+kjd.us
 kknresmi.live
 kla.me
 klas.ws
@@ -1662,6 +1663,7 @@ mattes.live
 mattsuuii.life
 mattsuuii.live
 matwo.fr
+mawar500.cc
 max4click.com
 maxiurl.com
 maxlink.ly
